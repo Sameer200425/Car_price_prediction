@@ -132,8 +132,8 @@ car_price_prediction/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/car_price_prediction.git
-cd car_price_prediction
+git clone https://github.com/Sameer200425/Car_price_prediction.git
+cd Car_price_prediction
 ```
 
 ### 2. Create and Activate a Virtual Environment
@@ -264,7 +264,7 @@ git commit -m "feat: complete car price prediction ML pipeline with EDA, tuning,
 3. Connect and push:
 ```bash
 git branch -M main
-git remote add origin https://github.com/<YOUR-USERNAME>/car-price-prediction.git
+git remote add origin https://github.com/Sameer200425/Car_price_prediction.git
 git push -u origin main
 ```
 
